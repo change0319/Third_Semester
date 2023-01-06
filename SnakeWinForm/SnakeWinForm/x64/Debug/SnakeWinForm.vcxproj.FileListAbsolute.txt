@@ -1,0 +1,10 @@
+C:\Users\Данил\Desktop\SnakeWinForm-master\SnakeWinForm\x64\Debug\SnakeWinForm.MyForm.resources
+C:\Users\Данил\Desktop\SnakeWinForm-master\SnakeWinForm\x64\Debug\SnakeWinForm.MyForm1.resources
+C:\Users\Данил\Desktop\SnakeWinForm-master\SnakeWinForm\x64\Debug\SnakeWinForm.MyForm2.resources
+C:\Users\Данил\Desktop\SnakeWinForm-master\SnakeWinForm\x64\Debug\SnakeWinForm.vcxproj.GenerateResource.cache
+C:\Users\Данил\Desktop\SnakeWinForm-master\SnakeWinForm\x64\Debug\SnakeWinForm.vcxproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\x64\Debug\SnakeWinForm.vcxproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\x64\Debug\SnakeWinForm.MyForm.resources
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\x64\Debug\SnakeWinForm.MyForm1.resources
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\x64\Debug\SnakeWinForm.MyForm2.resources
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\x64\Debug\SnakeWinForm.vcxproj.GenerateResource.cache

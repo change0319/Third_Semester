@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(32,154): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(32,130): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(35,156): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(35,132): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(38,156): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(38,132): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(41,157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(41,133): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(50,155): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(50,131): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(57,160): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Данил\Desktop\SnakeWinForm\SnakeWinForm\MyForm1.h(57,136): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  snake.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SnakeWinForm.vcxproj -> C:\Users\Данил\Desktop\SnakeWinForm\x64\Debug\SnakeWinForm.exe
